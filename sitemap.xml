@@ -2,16 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://icer-abbit.github.io/post/helloworld/</loc>
+    <loc>http://icer-abbit.github.io/</loc>
     <lastmod>2023-05-23T00:04:43+08:00</lastmod>
   </url><url>
-    <loc>http://icer-abbit.github.io/</loc>
+    <loc>http://icer-abbit.github.io/post/helloworld/</loc>
     <lastmod>2023-05-23T00:04:43+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/post/</loc>
     <lastmod>2023-05-23T00:04:43+08:00</lastmod>
   </url><url>
+    <loc>http://icer-abbit.github.io/page/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://icer-abbit.github.io/categories/</loc>
+  </url><url>
+    <loc>http://icer-abbit.github.io/page/search/</loc>
   </url><url>
     <loc>http://icer-abbit.github.io/tags/</loc>
   </url>

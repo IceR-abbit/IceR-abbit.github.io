@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>🐲 哥瞎评</title>
-        <link>http://icer-abbit.github.io/</link>
-        <description>Recent content on 🐲 哥瞎评</description>
+        <title>Pages on 🐲 哥瞎评</title>
+        <link>http://icer-abbit.github.io/page/</link>
+        <description>Recent content in Pages on 🐲 哥瞎评</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 23 May 2023 00:04:43 +0800</lastBuildDate><atom:link href="http://icer-abbit.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Helloworld 🐲 </title>
-        <link>http://icer-abbit.github.io/post/helloworld/</link>
-        <pubDate>Tue, 23 May 2023 00:04:43 +0800</pubDate>
-        
-        <guid>http://icer-abbit.github.io/post/helloworld/</guid>
-        <description>&lt;p&gt;123123 🐲&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://icer-abbit.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>http://icer-abbit.github.io/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
