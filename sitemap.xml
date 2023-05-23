@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://icer-abbit.github.io/</loc>
-    <lastmod>2023-05-23T00:04:43+08:00</lastmod>
+    <lastmod>2023-05-23T20:40:16+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/commodity/</loc>
+    <lastmod>2023-05-23T20:40:16+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/tags/commodity/</loc>
+    <lastmod>2023-05-23T20:40:16+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/commodity/selsun/</loc>
+    <lastmod>2023-05-23T20:40:16+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/tags/</loc>
+    <lastmod>2023-05-23T20:40:16+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/tags/game/</loc>
+    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/game/</loc>
+    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/game/oneshot/</loc>
+    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/post/helloworld/</loc>
     <lastmod>2023-05-23T00:04:43+08:00</lastmod>
@@ -20,7 +41,5 @@
     <loc>http://icer-abbit.github.io/categories/</loc>
   </url><url>
     <loc>http://icer-abbit.github.io/page/search/</loc>
-  </url><url>
-    <loc>http://icer-abbit.github.io/tags/</loc>
   </url>
 </urlset>

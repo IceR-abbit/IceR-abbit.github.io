@@ -5,6 +5,23 @@
         <link>http://icer-abbit.github.io/tags/</link>
         <description>Recent content in Tags on 🐲 哥瞎评</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-CN</language><atom:link href="http://icer-abbit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-CN</language>
+        <lastBuildDate>Tue, 23 May 2023 20:40:16 +0800</lastBuildDate><atom:link href="http://icer-abbit.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>commodity</title>
+        <link>http://icer-abbit.github.io/tags/commodity/</link>
+        <pubDate>Tue, 23 May 2023 20:40:16 +0800</pubDate>
+        
+        <guid>http://icer-abbit.github.io/tags/commodity/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>game</title>
+        <link>http://icer-abbit.github.io/tags/game/</link>
+        <pubDate>Tue, 23 May 2023 20:34:13 +0800</pubDate>
+        
+        <guid>http://icer-abbit.github.io/tags/game/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
