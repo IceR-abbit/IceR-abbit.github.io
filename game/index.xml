@@ -6,7 +6,34 @@
         <description>Recent content in Games on 🐲 哥瞎评</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 22 Jun 2023 09:48:33 +0800</lastBuildDate><atom:link href="http://icer-abbit.github.io/game/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 Jun 2023 12:07:41 +0800</lastBuildDate><atom:link href="http://icer-abbit.github.io/game/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Vampire Hunters Demo</title>
+        <link>http://icer-abbit.github.io/game/vampirehuntersdemo/</link>
+        <pubDate>Thu, 22 Jun 2023 12:07:41 +0800</pubDate>
+        
+        <guid>http://icer-abbit.github.io/game/vampirehuntersdemo/</guid>
+        <description>&lt;p&gt;Demo完成度很高的一款FPS Rouge。&lt;/p&gt;
+&lt;p&gt;缺点：枪太多后很挡视野，看不清近处飞过来的蝙蝠，容易断combo；Boss门前过场时什么都不能干，换子弹都不行；子弹数量显示在枪上看不太清（虽然不是很需要看）。&lt;/p&gt;
+&lt;p&gt;未来可期。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WeThePeople</title>
+        <link>http://icer-abbit.github.io/game/wethepeopledemo/</link>
+        <pubDate>Thu, 22 Jun 2023 11:50:59 +0800</pubDate>
+        
+        <guid>http://icer-abbit.github.io/game/wethepeopledemo/</guid>
+        <description>&lt;p&gt;Steam新品节出品。应该是一个类似DayZ的拟真僵尸求生游戏。&lt;/p&gt;
+&lt;p&gt;进游戏开始响起很不搭的摇滚乐，修改选项发现只能改Video和Audio，另外三个Controls、Language、User Interface全部不能改。&lt;/p&gt;
+&lt;p&gt;抗锯齿没写用的什么，很糊，材质也不能改，帧数很低。&lt;/p&gt;
+&lt;p&gt;教程有一段铁丝网让你匍匐，但是你可以站着走过去。&lt;/p&gt;
+&lt;p&gt;翻越障碍动画的摄像机有问题，能看到自己身体模型，并且高度不对。&lt;/p&gt;
+&lt;p&gt;重力有问题，跳起来像是在滑翔。&lt;/p&gt;
+&lt;p&gt;开完枪后坐力回复时摄像机乱抖。&lt;/p&gt;
+&lt;p&gt;放出的Alpha版本问题实在太多，连Demo都算不上。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Lies of P Demo</title>
         <link>http://icer-abbit.github.io/game/liesofpdemo/</link>
         <pubDate>Thu, 22 Jun 2023 09:48:33 +0800</pubDate>
