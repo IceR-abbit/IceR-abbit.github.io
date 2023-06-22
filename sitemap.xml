@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://icer-abbit.github.io/</loc>
-    <lastmod>2023-06-13T21:36:21+08:00</lastmod>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/categories/</loc>
-    <lastmod>2023-06-13T21:36:21+08:00</lastmod>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/tags/game/</loc>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/game/</loc>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/game/liesofpdemo/</loc>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/tags/</loc>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
+  </url><url>
+    <loc>http://icer-abbit.github.io/categories/%E7%8E%A9%E4%BB%80%E4%B9%88/</loc>
+    <lastmod>2023-06-22T09:48:33+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/tags/food/</loc>
     <lastmod>2023-06-13T21:36:21+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/food/</loc>
-    <lastmod>2023-06-13T21:36:21+08:00</lastmod>
-  </url><url>
-    <loc>http://icer-abbit.github.io/tags/</loc>
     <lastmod>2023-06-13T21:36:21+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/categories/%E5%90%83%E4%BB%80%E4%B9%88/</loc>
@@ -62,16 +74,7 @@
     <loc>http://icer-abbit.github.io/categories/%E6%B4%97%E5%8F%91%E6%B0%B4/</loc>
     <lastmod>2023-05-23T20:40:16+08:00</lastmod>
   </url><url>
-    <loc>http://icer-abbit.github.io/tags/game/</loc>
-    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
-  </url><url>
-    <loc>http://icer-abbit.github.io/game/</loc>
-    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
-  </url><url>
     <loc>http://icer-abbit.github.io/game/oneshot/</loc>
-    <lastmod>2023-05-23T20:34:13+08:00</lastmod>
-  </url><url>
-    <loc>http://icer-abbit.github.io/categories/%E7%8E%A9%E4%BB%80%E4%B9%88/</loc>
     <lastmod>2023-05-23T20:34:13+08:00</lastmod>
   </url><url>
     <loc>http://icer-abbit.github.io/post/helloworld/</loc>
